@@ -33,7 +33,7 @@ git commit -m "$input"
 
 # Push the local files to github
 
-git push origin master
+git push origin main
 
 echo "################################################################"
 echo "###################    Git Push Done      ######################"
