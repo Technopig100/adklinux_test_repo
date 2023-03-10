@@ -18,6 +18,10 @@ cd x86_64
 sh ./update_repo.sh
 # Below command will backup everything inside the project folder
 cd ..
+cd aarch64
+sh ./update_repo.sh
+# Below command will backup everything inside the project folder
+cd ..
 git add --all .
 
 # Give a comment to the commit if you want
